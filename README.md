@@ -5,7 +5,7 @@ It streamlines club coordination, player tracking, and support card management t
 
 ---
 
-## ✨ Core Features
+## Core Features
 
 ### 🧭 Club Management System
 Akikawa provides an integrated management suite for Umamusume clubs:
